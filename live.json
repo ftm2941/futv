@@ -1,29 +1,16 @@
 [
     {
     "kaynak": "m3u8",
-    "name": "Taraftarium24",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar4.m3u8",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Taraftarium24 sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
-    {
-    "kaynak": "m3u8",
     "name": "Tvjustin",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/kanallar2.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Tvjustin sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
      {
     "kaynak": "m3u8",
     "name": "TrGoals",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/kanallar.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
-   {
-    "kaynak": "m3u8",
-    "name": "Vavoo.to",
-    "url": "https://raw.githubusercontent.com/GeceKod/vivii/refs/heads/main/vavoo_full.m3u",
-    "user-agent": "libmpv",
-    "description": "Dünya genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
   {
     "kaynak": "m3u8",
     "name": "Vavoo_Turkey",
@@ -31,32 +18,4 @@
     "user-agent": "libmpv",
     "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
   },
-  {
-    "kaynak": "m3u8",
-    "name": "Vavoo_Germany",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/vavoo_Germany.m3u",
-    "user-agent": "libmpv",
-    "description": "Almanya genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "Huhu.to_Turkey_Kargo1975",
-    "url": "https://tinyurl.com/Rokkr-Tr-Huhu",
-    "user-agent": "libmpv",
-    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Huhu.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır.Liste sahibi Kargo1975'e teşekkürler."
-  },
-     {
-    "kaynak": "m3u8",
-    "name": "Oha.to_Turkey_Kargo1975",
-    "url": "https://tinyurl.com/Rokkr-Tr-Oha",
-    "user-agent": "libmpv",
-    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Oha.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır.Liste sahibi Kargo1975'e teşekkürler."
-  },
-      {
-    "kaynak": "m3u8",
-    "name": "Kool.to_Turkey_Kargo1975",
-    "url": "https://tinyurl.com/Rokkr-Tr-Kool",
-    "user-agent": "libmpv",
-    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Kool.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır.Liste sahibi Kargo1975'e teşekkürler."
-  }
   ]
