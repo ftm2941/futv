@@ -26,8 +26,8 @@
     {
     "kaynak": "m3u8",
     "name": "Belgesel",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/belgesel",
-    "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/belgesel.m3u8",
+    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
   {
     "kaynak": "m3u8",
