@@ -2,31 +2,31 @@
     {
     "kaynak": "m3u8",
     "name": "Tvjustin",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/kanallar2.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/main/kanallar2.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Tvjustin sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
      {
     "kaynak": "m3u8",
     "name": "TrGoals",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/kanallar.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/main/kanallar.m3u8",
     "description": "Genel olarak Spor kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
     {
     "kaynak": "m3u8",
     "name": "Film",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/film.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/main/film.m3u8",
     "description": "Genel olarak Film içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
     {
     "kaynak": "m3u8",
     "name": "Dizi",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/dizi.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/main/dizi.m3u8",
     "description": "Genel olarak Dizi kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
     {
     "kaynak": "m3u8",
     "name": "Belgesel",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/belgesel.m3u8",
+    "url": "https://raw.githubusercontent.com/ftm2941/listeler/main/belgesel.m3u8",
     "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
   {
@@ -36,4 +36,4 @@
     "user-agent": "libmpv",
     "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Vavoo.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
   }
-  ]
+]
