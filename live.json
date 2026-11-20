@@ -24,9 +24,9 @@
     "description": "Genel olarak Film içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
     {
-    "kaynak": "m3u8",
+    "kaynak": "json",
     "name": "Dizi",
-    "url": "https://raw.githubusercontent.com/ftm2941/listeler/refs/heads/main/dizi.m3u8",
+    "url": "https://github.com/swx-psd/sectv-extentions/releases/download/plugins/catalog.json",
     "description": "Genel olarak Dizi kanalını içeren izleyici listesidir. Yayınlar Trgoals sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır."
     },
     {
